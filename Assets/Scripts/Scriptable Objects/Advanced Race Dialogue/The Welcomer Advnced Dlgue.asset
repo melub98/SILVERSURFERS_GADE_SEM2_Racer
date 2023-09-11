@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ebcbc4ea775ff1438e954b5e2a4cdb7, type: 3}
+  m_Name: The Welcomer Advnced Dlgue
+  m_EditorClassIdentifier: 
+  npcName: 'The Welcomer:'
+  actualSentences:
+  - Almighty Race God Forgive me for doubting thee, thy noob has proved thyself.
